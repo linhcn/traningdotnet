@@ -1,0 +1,2 @@
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai_Tap2.1\bin\Debug\Bai_Tap2.1.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai_Tap2.1\obj\Debug\Bai_Tap2.1.csprojResolveAssemblyReference.cache

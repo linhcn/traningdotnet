@@ -1,0 +1,78 @@
+﻿@using BookManagement1.Models
+@model IEnumerable<CartItem>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section jsFooter{
+    <script src="/Content/clean/js/controler/cartControler.js"></script>
+}
+<h1 class="h1">Giỏ hàng của tôi</h1>
+<br />
+@if (Model != null)
+{
+    <div class="store">
+        <div class="sto_ttl">
+            <p class="sto_sp">Tên sản phẩm</p>
+            <p class="sto_pri">Giá</p>
+            <p class="sto_qty">Số lượng</p>
+            <p class="sto_mny">Tạm tính</p>
+            <p class="sto_edit">Chức năng</p>
+        </div>
+        @foreach (var item in Model)
+        {
+
+            <ul class="sto_lst">
+                <li>
+                    <div class="sto_sp">
+                        <br />
+                        <p class="sto_img_sp">
+                            <img width="50" height="50" src="/Content/image/@item.Book.BookImage" />
+                        </p>
+                        <p>@item.Book.BookName</p>
+                    </div>
+                    <p class="sto_pri">@item.Book.BookPrices</p>
+                    <p class="sto_qty">
+                        <input type="number" class="txtQuantity" data-id="@item.Book.BookID" value="@item.Quantity" />
+                    </p>
+                    <p class="sto_mny">@(item.Quantity * item.Book.BookPrices)</p>
+                    <p class="sto_edit">
+                        <span>
+                            <a href="#" data-id="@item.Book.BookID" class="btn-delete">
+                                <img width="30" height="20" src="/Content/image/de.jpg" />
+                            </a>
+                        </span>
+                    </p>
+                </li>
+            </ul>
+        }
+
+        <div class="sub_bt">
+            <p class="sto_bt_lft">
+                <input type="submit" id="btnContinue" class="btn btn-primary" value="buy next">
+                <input type="submit" id="btnUpdate" class="btn btn-success" value="Update">
+                <input type="submit" id="btnDeleteAll" class="btn btn-warning" value="Delete All">
+            </p>
+            <div class="sto_bt_rgt">
+                <p class="sto_total">
+                    Tổng giá: <input type="text" value="@ViewBag.totalPrice">
+                </p>
+                <p class="sto_bt_sub">
+                    @Html.ActionLink("Payment", "LoginCustomer", "Client")
+                </p>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-3 col-md-offset-5">
+            <span class="alert alert-danger">Không có sản phẩm nào trong giỏ hàng</span>
+        </div>
+
+    </div>
+    <br />
+    <br />
+}
+

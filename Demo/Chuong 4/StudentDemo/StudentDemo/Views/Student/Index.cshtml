@@ -1,0 +1,25 @@
+﻿@using StudentDemo.Models;
+@model IEnumerable<Student>
+@{
+    ViewBag.Title = "ListStudent";
+}
+@Html.ActionLink("Create a student","Create2","Student")
+<h2>List Student</h2>
+<table border="1">
+    <tr>
+        <th>Student Name</th>
+        <th>Student Age</th>
+        <th>Student Email</th>
+    </tr>
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.StudentName</td>
+        <td>@item.StudentAge</td>
+        <td>@item.Email</td>
+    </tr>
+  
+}
+</table>
+
+

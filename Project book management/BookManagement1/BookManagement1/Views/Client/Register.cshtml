@@ -1,0 +1,60 @@
+﻿@model BookManagement1.Models.Customer
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <h1>REGISTER</h1>
+    <div class="row">
+        <div class="col-lg-6 col-lg-offset-3">
+            @using (Html.BeginForm("Register", "Client", null, FormMethod.Post))
+            {
+                <table class="contact_tbl">
+                    @Html.AntiForgeryToken()
+                    <tr>
+                        <th scope="row"><span class="contact-table_th">@Html.LabelFor(model => model.CustomerName)*</span></th>
+                        <td> @Html.TextBoxFor(model => model.CustomerName, new { @class = "form-control", @placeholder = "Full name", @autofocus = "autofocus" })</td>
+                        <td>@Html.ValidationMessageFor(model => model.CustomerName)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><span class="contact-table_th">@Html.LabelFor(model => model.CustomerBirthday)*</span></th>
+                        <td> @Html.TextBoxFor(model => model.CustomerBirthday, new { @class = "form-control", @placeholder = "Brithday", @autofocus = "autofocus", @type = "date" })</td>
+                        <td>@Html.ValidationMessageFor(model => model.CustomerBirthday)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><span class="contact-table_th">@Html.LabelFor(model => model.CustomerEmail)*</span></th>
+                        <td> @Html.TextBoxFor(model => model.CustomerEmail, new { @class = "form-control", @placeholder = "Email", @autofocus = "autofocus" })</td>
+                        <td>@Html.ValidationMessageFor(model => model.CustomerEmail)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><span class="contact-table_th">@Html.LabelFor(model => model.CustomerAddress)*</span></th>
+                        <td> @Html.TextBoxFor(model => model.CustomerAddress, new { @class = "form-control", @placeholder = "Address", @autofocus = "autofocus" })</td>
+                        <td>@Html.ValidationMessageFor(model => model.CustomerAddress)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><span class="contact-table_th">@Html.LabelFor(model => model.CustomerPhone)*</span></th>
+                        <td> @Html.TextBoxFor(model => model.CustomerPhone, new { @class = "form-control", @placeholder = "Phone", @autofocus = "autofocus", @type = "Number" })</td>
+                        <td>@Html.ValidationMessageFor(model => model.CustomerPhone)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><span class="contact-table_th">@Html.LabelFor(model => model.CustomerAccount)*</span></th>
+                        <td> @Html.TextBoxFor(model => model.CustomerAccount, new { @class = "form-control", @placeholder = "Account", @autofocus = "autofocus" })</td>
+                        <td>@Html.ValidationMessageFor(model => model.CustomerAccount)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><span class="contact-table_th">@Html.LabelFor(model => model.CustomerPass)*</span></th>
+                        <td> @Html.TextBoxFor(model => model.CustomerPass, new { @class = "form-control", @placeholder = "Password", @autofocus = "autofocus", @type = "Password" })</td>
+                        <td>@Html.ValidationMessageFor(model => model.CustomerPass)</td>
+                    </tr>
+
+                </table>
+                <div class="contact_send_ct">
+                    <button type="submit" value="OK" class="contact_send">Submit</button>
+                    <button type="reset" value="Reset" class="contact_send">Reset</button>
+                </div>
+            }
+            <br />
+        </div>
+    </div>
+    </div>
+

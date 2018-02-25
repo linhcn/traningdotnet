@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\TestLinQ\bin\Debug\TestLinQ.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\TestLinQ\bin\Debug\TestLinQ.exe
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\TestLinQ\bin\Debug\TestLinQ.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\TestLinQ\obj\Debug\TestLinQ.exe
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\TestLinQ\obj\Debug\TestLinQ.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\TestLinQ\obj\Debug\TestLinQ.csprojResolveAssemblyReference.cache

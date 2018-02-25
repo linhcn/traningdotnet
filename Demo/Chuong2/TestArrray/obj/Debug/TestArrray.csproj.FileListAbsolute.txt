@@ -1,0 +1,5 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestArrray\bin\Debug\TestArrray.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestArrray\bin\Debug\TestArrray.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestArrray\bin\Debug\TestArrray.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestArrray\obj\Debug\TestArrray.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestArrray\obj\Debug\TestArrray.pdb

@@ -1,0 +1,5 @@
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\DemoCode\bin\Debug\DemoCode.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\DemoCode\bin\Debug\DemoCode.exe
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\DemoCode\bin\Debug\DemoCode.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\DemoCode\obj\Debug\DemoCode.exe
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\DemoCode\obj\Debug\DemoCode.pdb

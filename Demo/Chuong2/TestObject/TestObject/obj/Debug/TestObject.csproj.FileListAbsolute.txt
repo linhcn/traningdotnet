@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestObject\TestObject\bin\Debug\TestObject.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestObject\TestObject\bin\Debug\TestObject.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestObject\TestObject\bin\Debug\TestObject.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestObject\TestObject\obj\Debug\TestObject.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestObject\TestObject\obj\Debug\TestObject.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\TestObject\TestObject\obj\Debug\TestObject.pdb

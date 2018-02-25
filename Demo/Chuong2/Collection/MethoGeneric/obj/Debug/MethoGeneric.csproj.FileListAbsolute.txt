@@ -1,0 +1,8 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\bin\Debug\MethoGeneric.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\bin\Debug\MethoGeneric.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\bin\Debug\MethoGeneric.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\bin\Debug\Collection.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\bin\Debug\Collection.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\obj\Debug\MethoGeneric.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\obj\Debug\MethoGeneric.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\MethoGeneric\obj\Debug\MethoGeneric.pdb

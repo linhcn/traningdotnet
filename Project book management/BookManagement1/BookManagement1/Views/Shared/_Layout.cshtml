@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<head>
+    <title>TODO supply a title</title>
+    <link rel="stylesheet" type="text/css" href="/Content/clean/css/cssinfocusstomer.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/clean/css/store.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/clean/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/clean/font-awesome/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/clean/css/main_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/clean/css/slide.css" />
+    <script src="http://code.jquery.com/jquery-1.11.3.js" type="text/javascript"></script>
+    <script src="/Content/clean/js/jquery.js"></script>
+</head>
+<body>
+    <!--header contain logo & menu-->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div role="banner" class="top-header navbar navbar-inverse navbar-fixed-top bs-docs-nav">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div role="banner" class="top-header navbar navbar-inverse navbar-fixed-top bs-docs-nav">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-4"></div>
+                                                <div class="col-md-8">
+                                                    <ul class="nav nav-pills">
+                                                        <li>@Html.ActionLink("Trang Chủ","Index","Home")</li>
+                                                        <li><a href="#">Giới thiệu</a></li>
+                                                        <li class="dropdown">
+                                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sách<span class="caret"></span></a>
+                                                            <ul class="dropdown-menu">
+                                                                <li><a href="#">Sách thiếu nhi</a></li>
+                                                                <li><a href="#">Tiểu thuyết</a></li>
+                                                                <li><a href="#">Kỹ năng sống</a></li>
+                                                                <li><a href="#">Tạp chí</a></li>
+                                                                <li role="separator" class="divider"></li>
+                                                                <li><a href="#">Các loại sách khác</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li><a href="#">Tâm sự</a></li>
+                                                        <li>@Html.ActionLink("Đăng Ký", "Register", "Client")</li>
+                                                        <li><a href="#">Liên Hệ</a></li>
+                                                        <li>
+                                                            <a href="~/Cart/index" id="sw_dropdown_1555" class="cm-popup-title cm-combination cm-combo-on">
+                                                                <div class="minicart-title hand">
+                                                                    <strong class="vnb-bg icon-basket-vina filled cart-amount">&nbsp;</strong>
+                                                                    <span class="glyphicon glyphicon-shopping-cart">&nbsp;(@ViewBag.itemCart)</span>
+                                                                </div>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- end menu-->
+        
+    <!-- start body-->
+    <br />
+    <br />
+    @RenderBody()
+    <!-- end body-->
+
+    <!-- start footer-->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <!-- Footer widget -->
+                    <div class="footer-widget">
+                        <!-- Logo area -->
+                        <div class="logo">
+
+                            <!-- Heading -->
+                            <h4>Nhà Sách Số 1</h4>
+                        </div>
+                        <!-- Paragraph -->
+                        <p>
+                            Nhà sách của chúng tôi chuyên phục vụ những cuốn sách hay nhất,
+                            <br>và đảm bảo chất lượng tới khách hàng.
+                            <br> Rất hân hạnh được phục vụ!
+                        </p>
+                        <hr>
+                    </div> <!--/ Footer widget end -->
+                </div>
+
+                <div class="clearfix visible-sm"></div>
+                <div class="col-md-3 col-sm-6">
+                    <!-- Footer widget -->
+                    <div class="footer-widget">
+                        <!-- Heading -->
+                        <h4>Gia Nhập</h4>
+                        <!-- Paragraph -->
+                        <p>Điền thông tin của bạn vào form ở dưới để tham gia gia nhập vào đội ngũ của chúng tôi</p>
+                        <!-- Subscribe form -->
+                        <form role="form">
+                            <div class="form-group">
+                                <input class="form-control" type="text" placeholder="Họ Và Tên">
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" type="email" placeholder="Địa Chỉ Email">
+                            </div>
+                            <button class="btn btn-danger" type="button">Đăng Ký</button>
+                        </form>
+                    </div> <!--/ Footer widget end -->
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <!-- Footer widget -->
+                    <div class="footer-widget">
+                        <!-- Heading -->
+                        <h4>Liên hệ chúng tôi</h4>
+                        <div class="contact-details">
+                            <!-- Address / Icon -->
+                            <i class="fa fa-map-marker br-red"></i> <span>80B, Lê Duẫn, Quận Hải Châu<br> Thành Phố Đà Nẵng</span>
+                            <div class="clearfix"></div>
+                            <!-- Contact Number / Icon -->
+                            <i class="fa fa-phone br-green"></i> <span>+000 1111 111</span>
+                            <div class="clearfix"></div>
+                            <!-- Email / Icon -->
+                            <i class="fa fa-envelope-o br-lblue"></i> <span><a href="#">abc@gmail.com</a></span>
+                            <div class="clearfix"></div>
+                        </div>
+                        <!-- Social media icon -->
+                        <div class="social">
+                            <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+                            <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                            <a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a>
+                        </div>
+                    </div> <!--/ Footer widget end -->
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- end footer-->
+    <script src="/Content/clean/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+    <script>
+        // For Demo purposes only (show hover effect on mobile devices)
+        [].slice.call(document.querySelectorAll('a[ href="#"')).forEach(function (el) {
+            el.addEventListener('click', function (ev) { ev.preventDefault(); });
+        });
+    </script>
+    @RenderSection("jsFooter", required: false)
+</body>
+</html>
+

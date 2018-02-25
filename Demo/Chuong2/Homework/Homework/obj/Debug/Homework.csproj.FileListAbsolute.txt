@@ -1,0 +1,12 @@
+c:\users\toanlt\documents\visual studio 2013\Projects\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\toanlt\Documents\Visual Studio 2013\Projects\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\toanlt\Documents\Visual Studio 2013\Projects\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\toanlt\Documents\Visual Studio 2013\Projects\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\toanlt\Documents\Visual Studio 2013\Projects\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\toanlt\Documents\Visual Studio 2013\Projects\Homework\Homework\obj\Debug\Homework.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Homework\Homework\bin\Debug\Homework.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Homework\Homework\obj\Debug\Homework.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Homework\Homework\obj\Debug\Homework.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Homework\Homework\bin\Debug\Homework.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Homework\Homework\bin\Debug\Homework.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache

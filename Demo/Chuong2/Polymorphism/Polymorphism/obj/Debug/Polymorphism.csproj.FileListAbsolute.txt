@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong2\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb

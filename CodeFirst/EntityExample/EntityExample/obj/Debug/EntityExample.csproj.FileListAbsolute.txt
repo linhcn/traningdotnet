@@ -1,0 +1,26 @@
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\bin\Debug\EntityExample.exe.config
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\bin\Debug\EntityExample.exe
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\bin\Debug\EntityExample.pdb
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\bin\Debug\EntityFramework.dll
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\bin\Debug\EntityFramework.xml
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\obj\Debug\EntityExample.csprojResolveAssemblyReference.cache
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\obj\Debug\EntityExample.Form1.resources
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\obj\Debug\EntityExample.Properties.Resources.resources
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.GenerateResource.Cache
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\obj\Debug\EntityExample.exe
+C:\Users\Pham Ngoc Quy\Documents\Visual Studio 2013\Projects\EntityExample\EntityExample\obj\Debug\EntityExample.pdb
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\bin\Debug\EntityExample.exe.config
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\obj\Debug\EntityExample.exe
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\obj\Debug\EntityExample.pdb
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\bin\Debug\EntityExample.exe
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\bin\Debug\EntityExample.pdb
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\bin\Debug\EntityFramework.dll
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.dll
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\bin\Debug\EntityFramework.xml
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.xml
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\obj\Debug\EntityExample.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\obj\Debug\EntityExample.Form1.resources
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\obj\Debug\EntityExample.Properties.Resources.resources
+E:\CaoNgocLinh\NET\CodeFirst\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.GenerateResource.Cache

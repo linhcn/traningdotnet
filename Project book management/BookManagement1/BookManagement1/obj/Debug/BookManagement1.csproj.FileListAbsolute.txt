@@ -1,0 +1,216 @@
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\BookManagement1.dll.config
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\BookManagement1.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\BookManagement1.pdb
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\Antlr3.Runtime.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\EntityFramework.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\Microsoft.Web.Infrastructure.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\Newtonsoft.Json.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\PagedList.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\PagedList.Mvc.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Helpers.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Mvc.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Optimization.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Razor.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.WebPages.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\WebGrease.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\EntityFramework.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\PagedList.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\PagedList.Mvc.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Helpers.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Mvc.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Optimization.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.Razor.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.WebPages.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\Newtonsoft.Json.xml
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\bin\Antlr3.Runtime.pdb
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\obj\Debug\BookManagement1.dll
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\obj\Debug\BookManagement1.pdb
+E:\CaoNgocLinh\NET\Project\BookManagement1\BookManagement1\obj\Debug\BookManagement1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\BookManagement1.dll.config
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\BookManagement1.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\BookManagement1.pdb
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\PagedList.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\PagedList.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\PagedList.Mvc.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\obj\Debug\BookManagement1.dll
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\obj\Debug\BookManagement1.pdb
+C:\Users\ASUS\Desktop\BookManagement1\BookManagement1\obj\Debug\BookManagement1.csprojResolveAssemblyReference.cache
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.dll.config
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.pdb
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Antlr3.Runtime.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Newtonsoft.Json.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.Mvc.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Helpers.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Mvc.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Optimization.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Razor.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\WebGrease.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.Mvc.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Helpers.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Mvc.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Optimization.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Razor.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Newtonsoft.Json.xml
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Antlr3.Runtime.pdb
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.dll
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.pdb
+C:\Users\linhcn\Desktop\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.dll.config
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.pdb
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\PagedList.Mvc.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.dll
+C:\Users\ASUS\Desktop\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.pdb
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.csprojResolveAssemblyReference.cache
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.dll.config
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\BookManagement1.pdb
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\Antlr3.Runtime.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\Newtonsoft.Json.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\PagedList.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\PagedList.Mvc.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Net.Http.Formatting.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Helpers.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Http.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Http.WebHost.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Mvc.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Optimization.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Razor.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\WebGrease.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\PagedList.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\PagedList.Mvc.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Net.Http.Formatting.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Http.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Http.WebHost.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Helpers.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Mvc.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Optimization.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.Razor.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\Newtonsoft.Json.xml
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\bin\Antlr3.Runtime.pdb
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.dll
+C:\Users\linhcn\Desktop\Finish\Book temp1\BookManagement1\BookManagement1\obj\Debug\BookManagement1.pdb
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\BookManagement1.dll.config
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\BookManagement1.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\BookManagement1.pdb
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\Antlr3.Runtime.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\EntityFramework.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\Newtonsoft.Json.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\PagedList.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\PagedList.Mvc.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Net.Http.Formatting.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Helpers.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Http.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Http.WebHost.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Mvc.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Optimization.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Razor.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.WebPages.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\WebGrease.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\EntityFramework.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\EntityFramework.SqlServer.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\PagedList.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\PagedList.Mvc.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Net.Http.Formatting.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Http.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Http.WebHost.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Helpers.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Mvc.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Optimization.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.Razor.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.WebPages.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\System.Web.WebPages.Razor.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\Newtonsoft.Json.xml
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\bin\Antlr3.Runtime.pdb
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\obj\Debug\BookManagement1.csprojResolveAssemblyReference.cache
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\obj\Debug\BookManagement1.dll
+C:\Users\linhcn\Desktop\Finish\Group1_ManhLinh_NgocLinh\BookManagement1\BookManagement1\obj\Debug\BookManagement1.pdb

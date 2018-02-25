@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong2\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

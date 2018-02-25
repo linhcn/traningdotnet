@@ -1,0 +1,12 @@
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong 2\Test\bin\Debug\Test.exe.config
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong 2\Test\bin\Debug\Test.exe
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong 2\Test\bin\Debug\Test.pdb
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong 2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong 2\Test\obj\Debug\Test.exe
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong 2\Test\obj\Debug\Test.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Chuong 2\Test\bin\Debug\Test.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Chuong 2\Test\obj\Debug\Test.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Chuong 2\Test\obj\Debug\Test.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Chuong 2\Test\bin\Debug\Test.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Chuong 2\Test\bin\Debug\Test.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Chuong 2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

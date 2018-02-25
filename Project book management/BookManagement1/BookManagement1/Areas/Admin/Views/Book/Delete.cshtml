@@ -1,0 +1,106 @@
+﻿@model BookManagement1.Models.Book
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    Home page delete
+}
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Book</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Authors.AuthorName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Authors.AuthorName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Production.ProductionName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Production.ProductionName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Topic.TopicName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Topic.TopicName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookPrices)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookPrices)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookDateUpdate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookDateUpdate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookQuantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookQuantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookDiscount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookDiscount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookImage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookImage)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

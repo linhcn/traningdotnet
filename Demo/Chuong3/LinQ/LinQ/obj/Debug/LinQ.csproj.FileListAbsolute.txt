@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\LinQ\bin\Debug\LinQ.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\LinQ\bin\Debug\LinQ.exe
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\LinQ\bin\Debug\LinQ.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\LinQ\obj\Debug\LinQ.exe
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\LinQ\obj\Debug\LinQ.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong3\LinQ\LinQ\obj\Debug\LinQ.csprojResolveAssemblyReference.cache

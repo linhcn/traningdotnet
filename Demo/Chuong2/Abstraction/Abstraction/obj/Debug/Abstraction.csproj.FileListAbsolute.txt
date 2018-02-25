@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Abstraction\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong2\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

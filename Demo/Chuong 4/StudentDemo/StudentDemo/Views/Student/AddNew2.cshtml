@@ -1,0 +1,35 @@
+﻿@using  StudentDemo.Models
+@model Student
+@{
+    ViewBag.Title = "AddNew2";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AddNew2</h2>
+@Html.ValidationSummary()
+@using(Html.BeginForm("SaveStudent2","Student",FormMethod.Post))
+{
+   @*@Html.Label("StudentName", "Tên sinh viên", new { @class="control-label col-md1"})
+   @Html.TextBox("Name")
+   <br/>
+   @Html.Label("StudentAge","Tuổi")
+   @Html.TextBox("Age")<br/>
+   @Html.Label("StudentEmail","Email")
+   @Html.TextBox("StudentEmail")*@
+   @Html.LabelFor(m=>m.StudentName,"Họ tên") 
+   @Html.TextBoxFor(m=>m.StudentName)
+   @Html.ValidationMessageFor(m=>m.StudentName,"Please enter your name")
+   <br/>
+   @Html.LabelFor(m=>m.StudentAge,"Tuổi")
+   @Html.TextBoxFor(m=>m.StudentAge)
+    <br/>
+   @Html.LabelFor(m=>m.Email,"Email")
+   @Html.TextBoxFor(m=>m.Email)
+    @Html.ValidationMessageFor(m=>m.Email,"Please enter a valid email")
+    <br/>
+   @Html.DropDownListFor(m=>m.StudentGender,new SelectList(Enum.GetValues(typeof(Gender))),"Select a gender")
+   <br/>
+    <input type="submit" name="btnSubmit" value="Save"/>
+    <input type="submit" name="btnSubmit" value="Cancel"/>
+}
+

@@ -1,0 +1,25 @@
+* { border: medium none; margin: 0; padding: 0; }
+/*css top*/
+.h1 {color:yellowgreen; font-style:italic;text-align:center}
+.store {width: 960px; overflow: hidden; margin: auto;text-decoration: none;}
+.sto_ttl {overflow: hidden; padding: 0 10px 5px 10px;border-bottom: 1px solid #ccc;}
+.sto_sp {display: table-cell ;width: 400px; padding-right: 5px;}
+.sto_pri {display: table-cell ;width: 130px; padding-right: 5px; vertical-align: middle;}
+.sto_qty {display: table-cell ;width: 130px; padding-right: 5px; vertical-align: middle;}
+.sto_mny {display: table-cell ;width: 130px; overflow: hidden; padding-right: 5px; vertical-align: middle;}
+.sto_edit {display: table-cell ; width: 150px; vertical-align: middle;}
+/*css center*/
+.sto_lst {overflow: hidden;margin: 0; padding: 0; }
+.sto_lst li {overflow: hidden;padding: 0 10px 14px 10px ;border-bottom: 1px solid #ccc;}
+.sto_lst input {width: 60px; padding: 5px ;border: 1px solid #ccc; border-radius: 8px; text-align: center;}
+.sto_lst input[type="submit"] {cursor: pointer;}
+.sto_img_sp {float: left; padding-right: 15px;}
+/*css  bt*/
+.sub_bt {overflow: hidden; padding: 10px 10px 0 10px;}
+.sto_bt_lft {float: left; width: 560px;}
+.sto_bt_lft input[type="submit"] { padding: 5px 10px; border-radius: 8px ;background: #0061a7; color: #fff;}
+.sto_bt_rgt {float: right;width: 310px;overflow: hidden;}
+.sto_total {display: table-cell;width: 200px; padding: 0 10px 0 0;}
+.sto_total input[type="text"] {width: 100px;}
+.sto_bt_sub {display: table-cell; width: 100px;}
+.sto_bt_rgt input[type="submit"] {padding: 5px 10px;border-radius: 8px;background: #009843; color: #fff;}

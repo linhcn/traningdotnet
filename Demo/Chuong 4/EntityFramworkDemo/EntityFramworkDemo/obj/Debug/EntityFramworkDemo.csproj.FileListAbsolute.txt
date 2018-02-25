@@ -1,0 +1,10 @@
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\bin\Debug\EntityFramworkDemo.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\bin\Debug\EntityFramworkDemo.exe
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\bin\Debug\EntityFramworkDemo.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\bin\Debug\EntityFramework.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\bin\Debug\EntityFramework.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.exe
+E:\CaoNgocLinh\NET\Demo\Chuong 4\EntityFramworkDemo\EntityFramworkDemo\obj\Debug\EntityFramworkDemo.pdb

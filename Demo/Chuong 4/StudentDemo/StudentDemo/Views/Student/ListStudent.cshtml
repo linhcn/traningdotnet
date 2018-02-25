@@ -1,0 +1,20 @@
+﻿@using StudentDemo.Models;
+@model IEnumerable<Student>
+@{
+    ViewBag.Title = "ListStudent";
+}
+<h2>List Student</h2>
+<table border="1">
+    <tr>
+        <th>Student ID</th>
+        <th>Student Name</th>
+    </tr>
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.StudentID </td>
+        <td>@item.StudentName</td>
+    </tr>
+}
+</table>
+

@@ -1,0 +1,39 @@
+﻿<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse">
+        <ul class="nav" id="side-menu">
+            <li class="sidebar-search">
+                <div class="input-group custom-search-form">
+                    <input type="text" class="form-control" placeholder="Search...">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="button">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </span>
+                </div>
+                <!-- /input-group -->
+            </li>
+            <li>
+                <i class="fa fa-dashboard fa-fw"></i> @Html.ActionLink("Home", "Index", "Book")
+            </li>
+            <li>
+               <i class="fa fa-users"></i>@Html.ActionLink("Customer", "Index", "Customer")
+            </li>
+            <li>
+                <a href="index.html"><i class="fa fa-reorder"></i>@Html.ActionLink("Bill", "Index", "Bill")</a>
+            </li>
+            <li>
+                <a href="index.html"><i class="fa fa-credit-card"></i>@Html.ActionLink("Account", "Index", "Account")</a>
+            </li>
+            <li>
+                <a href="index.html"><i class="fa fa-building"></i>@Html.ActionLink("Production", "Index", "Production")</a>
+            </li>
+            <li>
+                <a href="index.html"><i class="fa fa-user"></i>@Html.ActionLink("Author", "Index", "Author")</a>
+            </li>
+
+
+
+        </ul>
+    </div>
+    <!-- /.sidebar-collapse -->
+</div>

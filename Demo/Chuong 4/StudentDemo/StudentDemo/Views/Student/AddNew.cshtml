@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "AddNew";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add New</h2>
+<form action="/Student/SaveStudent" method="post">
+    Student Name: <input type="text" id="txtName" name="Name" /><br/>
+    Student Age: <input type="text" id="txtAge" name="Age"/><br />
+    Student Email: <input type="text" id="txtEmail" name="Email"/><br />
+    <input type="submit" name="btnSubmit" value="Save" />
+    <input type="submit" name="btnSubmit" value="Cancel"/>
+</form>
+

@@ -1,0 +1,59 @@
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\StudentDemo.dll.config
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\StudentDemo.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\StudentDemo.pdb
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\Antlr3.Runtime.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\Microsoft.Web.Infrastructure.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\Newtonsoft.Json.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Helpers.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Mvc.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Optimization.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Razor.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.WebPages.Deployment.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.WebPages.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.WebPages.Razor.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\WebGrease.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Helpers.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Mvc.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Optimization.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.Razor.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.WebPages.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.WebPages.Deployment.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\System.Web.WebPages.Razor.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\Newtonsoft.Json.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\Antlr3.Runtime.pdb
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\obj\Debug\StudentDemo.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\obj\Debug\StudentDemo.pdb
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\EntityFramework.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\EntityFramework.SqlServer.dll
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\EntityFramework.xml
+I:\NNC#\Ungdung\PNV\FirstTime\Chuong11\StudentDemo\StudentDemo\bin\EntityFramework.SqlServer.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\StudentDemo.dll.config
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\StudentDemo.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\StudentDemo.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\Antlr3.Runtime.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\EntityFramework.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\EntityFramework.SqlServer.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\Newtonsoft.Json.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Helpers.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Mvc.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Optimization.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Razor.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.WebPages.Deployment.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.WebPages.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.WebPages.Razor.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\WebGrease.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\EntityFramework.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\EntityFramework.SqlServer.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Helpers.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Mvc.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Optimization.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.Razor.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.WebPages.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.WebPages.Deployment.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\System.Web.WebPages.Razor.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\Newtonsoft.Json.xml
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\bin\Antlr3.Runtime.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\obj\Debug\StudentDemo.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\obj\Debug\StudentDemo.dll
+E:\CaoNgocLinh\NET\Demo\Chuong 4\StudentDemo\StudentDemo\obj\Debug\StudentDemo.pdb

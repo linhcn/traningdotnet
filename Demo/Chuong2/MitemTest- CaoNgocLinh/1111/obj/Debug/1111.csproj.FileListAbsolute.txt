@@ -1,0 +1,9 @@
+C:\Users\linhcn\Desktop\CaoNgocLinh\1111\bin\Debug\1111.exe.config
+C:\Users\linhcn\Desktop\CaoNgocLinh\1111\obj\Debug\1111.csprojResolveAssemblyReference.cache
+C:\Users\linhcn\Desktop\CaoNgocLinh\1111\bin\Debug\1111.exe
+C:\Users\linhcn\Desktop\CaoNgocLinh\1111\bin\Debug\1111.pdb
+C:\Users\linhcn\Desktop\CaoNgocLinh\1111\obj\Debug\1111.exe
+C:\Users\linhcn\Desktop\CaoNgocLinh\1111\obj\Debug\1111.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\MitemTest- CaoNgocLinh\1111\bin\Debug\1111.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\MitemTest- CaoNgocLinh\1111\obj\Debug\1111.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\MitemTest- CaoNgocLinh\1111\obj\Debug\1111.pdb

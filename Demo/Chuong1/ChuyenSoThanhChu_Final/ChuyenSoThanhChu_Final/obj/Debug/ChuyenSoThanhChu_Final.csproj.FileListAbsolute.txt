@@ -1,0 +1,19 @@
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe.config
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.pdb
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.AboutBox.resources
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.DemoForm.resources
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.Properties.Resources.resources
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csproj.GenerateResource.Cache
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.exe
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.pdb
+C:\Users\Tuan\documents\visual studio 2012\Projects\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.exe
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.exe
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\bin\Debug\ChuyenSoThanhChu_Final.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.DemoForm.resources
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.Properties.Resources.resources
+E:\CaoNgocLinh\NET\Demo\Chuong1\ChuyenSoThanhChu_Final\ChuyenSoThanhChu_Final\obj\Debug\ChuyenSoThanhChu_Final.csproj.GenerateResource.Cache

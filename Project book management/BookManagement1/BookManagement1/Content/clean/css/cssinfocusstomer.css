@@ -1,0 +1,15 @@
+h1{color: yellowgreen;font-style: italic;text-align: center;}
+* { border: medium none; margin: 0; padding: 0; }
+/*css form*/
+.form {width: 730px ;margin: auto;}
+.form table {border-collapse: collapse; border-spacing: 0;}
+.contact_tbl {width: 100%; padding-bottom: 30px; border: 1px solid #ccc;font-size: 14px;}
+.contact_tbl tr{border-bottom: 1px solid #ccc;}
+.contact_tbl tr th { width: 225px; padding: 15px 10px 15px 15px; border-right: 1px solid #ccc;background: #f7f0ea;text-align: left;}
+.contact-table_th {float: right; color: #e40054;}
+.contact_tbl tr td {max-width: 310px; padding: 15px 10px;}
+.contact_tbl input {width: 294px;}
+.contact_tbl input[type="text"], input[type="date"], input[type="number"] {padding: 7px; border: 1px solid #CCC;}
+/*css button form*/
+.contact_send_ct {height: 54px; overflow: hidden; padding-top: 15px; text-align: center;}
+.contact_send_ct .contact_send {width: 150px; height: 40px; margin-right: 20px ;background:  #e40054; color: #fff; cursor: pointer;}

@@ -1,0 +1,218 @@
+﻿@using BookManagement1.Models;
+@model IEnumerable<Book>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!--slide show of special food-->
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="2500">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                    </ol>
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="~/Content/image/s11.jpg" alt="" class="img-responsive" />
+                        </div>
+                        <div class="item">
+                            <img src="~/Content/image/s12.jpg" alt="" class="img-responsive" />
+                        </div>
+                        <div class="item">
+                            <img src="~/Content/image/s13.jpg" alt="" class="img-responsive" />
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--sach ban chay-->
+<section>
+    <div class="container">
+        <div class="chefs padd">
+            <div class="default-heading">
+                <!-- Crown image -->
+                <img class="img-responsive" src="/Content/image/crown.png" alt="">
+                <h2>Sách bán chạy</h2>
+                <div class="border"></div>
+                <div class="row">
+                    @if (ViewData["sellrun"] != null)
+                    {
+                        foreach (var item in (IEnumerable<Book>)ViewData["sellrun"])
+                        {
+                            <c:choose>
+                                <c:when test="${sachs.status == 1}">
+                                    <div class="col-md-3 col-sm-6">
+                                        <div class="thumbnail">
+                                            <figure class="effect-hera">
+                                                <img src="/Content/image/@item.BookImage" alt="" class="img-responsive" />
+                                                <figcaption>
+                                                    <p>
+                                                        <a href="#">Xem chi tiết</a>
+                                                    </p>
+                                                </figcaption>
+                                            </figure>
+                                            <div class="caption">
+                                                <h4 class="stylee"><i>@item.BookName</i></h4>
+                                                <div><span>@item.BookPrices</span></div>
+                                                <a href="~/Cart/AddItem?BookID=@item.BookID&Quantity=1" class="btn btn-outline btn-primary"><i class="fa fa-shopping-cart"> Mua ngay</i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </c:when>
+                            </c:choose>
+                        }
+                    }
+                    else
+                    {
+                        <span class="alert alert-danger">Không có sản phẩm nào trong mục này</span>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- book sell in fuyter month-->
+<section>
+    <div class="container">
+        <div class="chefs padd">
+            <div class="default-heading">
+                <!-- Crown image -->
+                <img class="img-responsive" src="/Content/image/crown.png" alt="">
+                <h2>Sách bán chạy trong tháng</h2>
+                <div class="border"></div>
+                <div class="row">
+                    @if (ViewData["sellinmonth"]!=null)
+                    {
+                        foreach (var item1 in (IEnumerable<Book>)ViewData["sellinmonth"])
+                        {
+                            <div class="col-md-3 col-sm-6">
+                                <div class="thumbnail">
+                                    <figure class="effect-hera">
+                                        <img src="/Content/image/@item1.BookImage" alt="" class="img-responsive" />
+                                        <figcaption>
+                                            <p>
+                                                <a href="#">Xem chi tiết</a>
+                                            </p>
+                                        </figcaption>
+                                    </figure>
+                                    <div class="caption">
+                                        <h4 class="stylee"><i>@item1.BookName</i></h4>
+                                        <div><span>@item1.BookPrices</span></div>
+                                        <a href="~/Cart/AddItem?BookID=@item1.BookID&Quantity=1" class="btn btn-outline btn-primary"><i class="fa fa-shopping-cart"> Mua ngay</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <span class="alert alert-danger">Không có sản phẩm nào trong mục này</span>
+                    }
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--content section-->
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="chefs padd">
+                <div class="col-md-12">
+                    <div class="default-heading">
+                        <img class="img-responsive" src="/Content/image/crown.png" alt="">
+                        <h2>Sách sắp phát hành</h2>
+                        <div class="border"></div>
+                    </div>
+                    <div class="container-fluid">
+                        <div class="control-box">
+                            <a data-slide="prev" href="#myCarousel" class="carousel-controll left">‹</a>
+                            <a data-slide="next" href="#myCarousel" class="carousel-controll right">›</a>
+                        </div>
+                        <div class="row-fluid">
+                            <div class="col-md-12">
+                                <div class="carousel slide" id="myCarousel">
+                                    <div class="carousel-inner">
+                                        <div class="item active">
+                                            @if (ViewData["sellPhatHang"]!=null)
+                                            {
+                                               foreach (var item3 in (IEnumerable<Book>)ViewData["sellPhatHang"])
+                                               {
+                                                <div class="col-md-3 col-sm-6">
+                                                    <div class="thumbnail">
+                                                        <figure class="effect-hera">
+                                                            <img src="/Content/image/@item3.BookImage" alt="" class="img-responsive">
+                                                            <figcaption>
+                                                                <p>
+                                                                    <a href="#">Xem chi tiết</a>
+                                                                </p>
+                                                            </figcaption>
+                                                        </figure>
+                                                        <div class="caption">
+                                                            <h4>@item3.BookName</h4>
+                                                            <p class="text">@item3.BookPrices</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <span class="alert alert-danger">Không có sản phẩm nào trong mục này</span>
+                                            }
+                                            
+                                        </div>
+                                        <!-- /Slide2 -->
+                                        @*<div class="item">
+                                                <ul class="thumbnails">
+                                                    <c:foreach items="${statusSachs}" var="sachs">
+                                                        <c:choose>
+                                                            <c:when test="${sachs.status == 3}">
+                                                                <li class="col-md-3 col-sm-6">
+                                                                    <div class="thumbnail">
+                                                                        <a href="#"><img src="/Content/image/${sachs.image}" alt="" class="img-responsive"></a>
+                                                                    </div>
+                                                                    <div class="caption">
+                                                                        <h4>${sachs.name}</h4>
+                                                                        <p class="text">${sachs.price}</p>
+                                                                    </div>
+                                                                </li>
+                                                            </c:when>
+                                                        </c:choose>
+                                                    </c:foreach>
+                                                </ul>
+                                            </div>*@
+                                        <!-- /Slide2 -->
+                                    </div>
+                                </div><!-- /#myCarousel -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>   

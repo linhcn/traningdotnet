@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai Tap 1\bin\Debug\Bai Tap 1.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai Tap 1\obj\Debug\Bai Tap 1.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai Tap 1\bin\Debug\Bai Tap 1.exe
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai Tap 1\bin\Debug\Bai Tap 1.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai Tap 1\obj\Debug\Bai Tap 1.exe
+E:\CaoNgocLinh\NET\Demo\Chuong1\Bai Tap 1\obj\Debug\Bai Tap 1.pdb

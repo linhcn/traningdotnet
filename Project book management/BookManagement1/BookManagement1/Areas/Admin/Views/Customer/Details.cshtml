@@ -1,0 +1,84 @@
+﻿@model BookManagement1.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    Customer page detail
+}
+<div>
+    <h4>Customer</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerBirthday)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerBirthday)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerGender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerGender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerPass)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerPass)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerAccount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerAccount)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CustomerID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

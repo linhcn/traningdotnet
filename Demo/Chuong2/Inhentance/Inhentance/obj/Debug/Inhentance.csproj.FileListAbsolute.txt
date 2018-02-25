@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\Inhentance\Inhentance\bin\Debug\Inhentance.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Inhentance\Inhentance\obj\Debug\Inhentance.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong2\Inhentance\Inhentance\bin\Debug\Inhentance.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Inhentance\Inhentance\bin\Debug\Inhentance.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Inhentance\Inhentance\obj\Debug\Inhentance.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Inhentance\Inhentance\obj\Debug\Inhentance.pdb

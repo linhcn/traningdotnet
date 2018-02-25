@@ -1,0 +1,32 @@
+﻿@using AspNetDemo.Models;
+@model Student
+@model IEnumerable<Student>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table border="1">
+    <tr>
+        <td>ID</td>
+        <td>Name</td>
+        <td>Age</td>
+        
+    </tr>
+    @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.StudentID</td>
+                <td>@item.StudentName</td>
+                <td>@item.StudentAge</td>
+            </tr>
+        }
+
+   
+</table>
+
+@*@using (@Html.BeginForm())
+    {
+    @Html.TextBoxFor(m =>m.);
+    }*@

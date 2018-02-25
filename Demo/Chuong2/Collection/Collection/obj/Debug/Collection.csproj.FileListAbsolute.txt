@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\Collection\bin\Debug\Collection.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\Collection\bin\Debug\Collection.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\Collection\bin\Debug\Collection.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\Collection\obj\Debug\Collection.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Collection\Collection\obj\Debug\Collection.pdb

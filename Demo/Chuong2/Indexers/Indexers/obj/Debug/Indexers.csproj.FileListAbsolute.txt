@@ -1,0 +1,6 @@
+E:\CaoNgocLinh\NET\Demo\Chuong2\Indexers\Indexers\bin\Debug\Indexers.exe.config
+E:\CaoNgocLinh\NET\Demo\Chuong2\Indexers\Indexers\bin\Debug\Indexers.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Indexers\Indexers\bin\Debug\Indexers.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Indexers\Indexers\obj\Debug\Indexers.exe
+E:\CaoNgocLinh\NET\Demo\Chuong2\Indexers\Indexers\obj\Debug\Indexers.pdb
+E:\CaoNgocLinh\NET\Demo\Chuong2\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
