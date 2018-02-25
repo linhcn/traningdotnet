@@ -1,0 +1,2 @@
+# traningdotnet
+Learning about .net
